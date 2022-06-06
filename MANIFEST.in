@@ -1,0 +1,4 @@
+include tests/*
+include README.md
+include scripts/*
+include LICENSE
